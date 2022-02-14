@@ -1,0 +1,43 @@
+{
+  "doc_id": "9011d4f5-5216-456d-bf6e-6f262f84a2f7",
+  "doc_name": "TrainFstPan",
+  "doc_version": "1baba2ba54e128bc4d4c125e6d1f1c33",
+  "format": "onnx",
+  "version": 7,
+  "inputs": {
+    "Image": {
+      "dtype": "float32",
+      "shape": [
+        null,
+        224,
+        224,
+        3
+      ],
+      "name": "Image:0"
+    }
+  },
+  "outputs": {
+    "Confidences": {
+      "dtype": "float32",
+      "shape": [
+        null,
+        7
+      ],
+      "name": "9011d4f5-5216-456d-bf6e-6f262f84a2f7.6d99aebb-fa43-4026-b992-5feb470ec771/dense_2/Softmax:0"
+    }
+  },
+  "tags": [],
+  "classes": {
+    "Label": [
+      "Not_min_win",
+      "add_tab",
+      "close_browser_window",
+      "close_tab",
+      "maximize_window",
+      "minimize_window",
+      "reduce_window"
+    ]
+  },
+  "filename": "browser_fst_pan_model.onnx",
+  "export_model_version": 1
+}

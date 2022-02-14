@@ -1,0 +1,9 @@
+{
+  "relInputFolderPath": "..\\..\\GUIEDP\\data\\input\\",
+  "relOutputFolderPath": "..\\..\\GUIEDP\\data\\output\\",
+  "screenFileName": "last_screen.jpg",
+  "mutatedScreenFileName": "last_mutated_screen.jpg",
+  "fstPanelFileName": "last_fst_panel.jpg",
+  "sndPanelFileName": "last_snd_panel.jpg",
+  "thdPanelFileName": "last_thd_panel.jpg"
+}

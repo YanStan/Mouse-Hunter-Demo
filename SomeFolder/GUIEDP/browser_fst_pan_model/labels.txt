@@ -1,0 +1,7 @@
+Not_min_win
+add_tab
+close_browser_window
+close_tab
+maximize_window
+minimize_window
+reduce_window

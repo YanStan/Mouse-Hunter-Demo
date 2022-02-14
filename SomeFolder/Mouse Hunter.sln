@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse Hunter", "Mouse Hunter.csproj", "{70132545-21BF-4292-811F-67EE9937173B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70132545-21BF-4292-811F-67EE9937173B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70132545-21BF-4292-811F-67EE9937173B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70132545-21BF-4292-811F-67EE9937173B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70132545-21BF-4292-811F-67EE9937173B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9134B27-4C6B-49B4-956C-1C848D77397D}
+	EndGlobalSection
+EndGlobal
